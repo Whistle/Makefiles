@@ -1,0 +1,7 @@
+MCU=attiny2313a
+MCU_AVRDUDE=attiny2313
+FUSES=
+
+OBJS=main.o
+
+include ../avr.mk
